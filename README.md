@@ -47,10 +47,10 @@ Device "NVIDIA GeForce GTX 1070 (0)"
 ## Results
 As this program is a pure prototype and has not been designed for being used, its interface is quite poor. If you don't want to bother compiling and running the code but still are interested in the results of it, here's the part you're looking for.
 
-![sky light](https://imgur.com/2EX8Qk1) Sky light sphere - 16k spp, ~25s to render
+![sky light](https://imgur.com/2EX8Qk1.png) Sky light sphere - 16k spp, ~25s to render
 
-![spherical light](https://imgur.com/c0PjVEh) Spherical light sphere - 32k spp, ~50s to render
+![spherical light](https://imgur.com/c0PjVEh.png) Spherical light sphere - 32k spp, ~50s to render
 
-![cornell box D](https://imgur.com/lkYLjAK) Full lambertian Cornell box - 64k spp, ~20mins to render
+![cornell box D](https://imgur.com/lkYLjAK.png) Full lambertian Cornell box - 64k spp, ~20mins to render
 
-![cornell box D+S](https://imgur.com/kgKZTHm) Lambertian + specular Cornell box - 16k spp, ~300s to render
+![cornell box D+S](https://imgur.com/kgKZTHm.png) Lambertian + specular Cornell box - 16k spp, ~300s to render
